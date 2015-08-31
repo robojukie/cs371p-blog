@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week One: Why OOP and Class Structure
+title: Week One: Why OOP and First Impressions
 ---
 blah
 blah
